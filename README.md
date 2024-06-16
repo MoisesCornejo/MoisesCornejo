@@ -59,7 +59,6 @@ Gracias por visitar mi perfil. ¡Espero que podamos conectar y crear algo incre�
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/moisescornejo/moisescornejo/output/snake.svg" alt="Snake animation" />
-
 <!---
 MoisesCornejo/MoisesCornejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
