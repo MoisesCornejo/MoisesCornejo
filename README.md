@@ -10,6 +10,8 @@
 
 ## 🛠 Habilidades Técnicas
 
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB3YzYzc2ZzMzE0d3dzb3JraWhkeWs4OTcwaGpkMmZka3h5N253MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0aNbkrrJ86qVYGhnBZ/giphy.webp"/>
+
 - **Lenguajes de Programación:** Java
 - **Frameworks:** Spring Boot
 - **Manejo de Dependencias:** Maven
@@ -19,7 +21,7 @@
 - **Desarrollo Web:** HTML, CSS
 - **Entornos de Desarrollo:** Visual Studio Code, IntelliJ IDEA
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
@@ -53,8 +55,6 @@ Si estás interesado en trabajar conmigo o simplemente quieres decir hola, no du
 </div>
 
 Gracias por visitar mi perfil. ¡Espero que podamos conectar y crear algo increíble juntos!
-
-
 <!---
 MoisesCornejo/MoisesCornejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
