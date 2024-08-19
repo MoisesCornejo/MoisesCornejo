@@ -1,65 +1,74 @@
-# Moisés Cornejo
+<br clear="both">
 
-¡Hola! Mi nombre es Moisés Cornejo, un apasionado Analista Programador de Chile. Mi formación académica se desarrolló en INACAP, donde adquirí una sólida base en diversas tecnologías y metodologías de programación.
+<h1 align="center">Hola 👋, Mi nombre es Moisés Cornejo!</h1>
+
+###
+
+<img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzltdGc5NGR5aHhpeno4ZHhjb25lajNtYmpnYjZodDU1N2Zpa2pjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFzzqbg8q0Tcs/giphy.webp"  />
+
+###
+
+<h3 align="left">Técnico Analista programador</h3>
+
+###
+
+<h3 align="left">BackEnd Developer</h3>
+<h4 aling="left">Especializándome en Java y Spring boot</p>
+
+###
+
+<br clear="both">
+<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moisescornejo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=moisescornejo&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moisescornejo&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="110" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="50" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="50" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="50" alt="webstorm logo"  />
 </div>
 
-## 🛠 Habilidades Técnicas
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB3YzYzc2ZzMzE0d3dzb3JraWhkeWs4OTcwaGpkMmZka3h5N253MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0aNbkrrJ86qVYGhnBZ/giphy.webp"/>
-
-- **Lenguajes de Programación:** Java
-- **Frameworks:** Spring Boot
-- **Manejo de Dependencias:** Maven
-- **Persistencia de Datos:** Spring Data JPA
-- **Bases de Datos:** MySQL
-- **Control de Versiones:** Git
-- **Desarrollo Web:** HTML, CSS
-- **Entornos de Desarrollo:** Visual Studio Code, IntelliJ IDEA
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-## 🌱 Aprendizaje Continuo
-
-Estoy constantemente buscando mejorar y expandir mis habilidades. El aprendizaje continuo es una parte fundamental de mi carrera como desarrollador, y siempre estoy abierto a explorar nuevas tecnologías y metodologías que puedan mejorar la eficiencia y calidad de mis proyectos.
-
-## 📫 Contacto
-
-Si estás interesado en trabajar conmigo o simplemente quieres decir hola, no dudes en contactarme.
-<div align="left">
-  <a href="https://cl.linkedin.com/in/mois%C3%A9s-cornejo-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-Gracias por visitar mi perfil. ¡Espero que podamos conectar y crear algo increíble juntos!
+###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/moisescornejo/moisescornejo/output/snake.svg" alt="Snake animation" />
-<!---
-MoisesCornejo/MoisesCornejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://www.linkedin.com/in/mois%C3%A9s-cornejo-dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoisesCornejo&locale=es&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=codeSTACKr&hide_border=true" height="130" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/MoisesCornejo/MoisesCornejo/output/snake.svg" alt="Snake animation" />
