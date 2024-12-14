@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<p align="left">Actualmente me encuentro perfeccionando mis conocimientos en Java y Spring implementando buenas prácticas en el desarrollo de software.<br>Además, estoy aprendiendo un poco de Angular para complementar mis proyectos. Mi objetivo es crear soluciones completas, eficientes y modernas, tanto en el backend como en el frontend.</p>
+<p align="left">Actualmente me encuentro perfeccionando mis conocimientos en Java y Spring implementando buenas prácticas en el desarrollo de software.<br>Además, estoy ampliando mis conocimientos sobre Angular para complementar mis proyectos. Mi objetivo es crear soluciones completas, eficientes y modernas, tanto en el backend como en el frontend.</p>
 
 ###
 
@@ -64,6 +64,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="80" alt="webstorm logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="80" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
 </div>
 
 ###
