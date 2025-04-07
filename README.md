@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 Analista Programador 💻<br>✨ Tengo 25 años y vivo en Santiago de Chile 🇨🇱<br>🎯 Team Java & Spring Boot<br>🌐 Mejorando con cada línea de código</p>
+<p align="left">📚 Analista Programador 💻<br>✨ Tengo 26 años y vivo en Santiago de Chile 🇨🇱<br>🎯 Team Java & Spring Boot<br>🌐 Mejorando con cada línea de código</p>
 
 ###
 
